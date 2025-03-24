@@ -9,7 +9,6 @@
 <p">
 <a href="https://www.hackster.io/asadshafi5/running-yolov5n-on-an-esp32-s3-dd1afc">📱 Visit this Project</a>
 </p>
+
 ![IMG_20250323_130745_673](https://github.com/user-attachments/assets/80d78742-112c-4bb1-8a2c-4ce9695a576b)
-
-
 ![IMG_20250323_125539_236](https://github.com/user-attachments/assets/c064d5d7-f32b-4ad3-97a0-132d925649a8)
