@@ -4,10 +4,10 @@
 
 
 <p>
-<a href="https://github.com/asad-shafi/synapedge">📱 Visit SynapEdge Project</a>
+<a href="https://github.com/asad-shafi/synapedge"> Visit SynapEdge Project</a>
 </p>
 <p">
-<a href="https://www.hackster.io/asadshafi5/running-yolov5n-on-an-esp32-s3-dd1afc">📱 Visit this Project</a>
+<a href="https://www.hackster.io/asadshafi5/running-yolov5n-on-an-esp32-s3-dd1afc"> Visit this Project</a>
 </p>
 
 ![IMG_20250323_130745_673](https://github.com/user-attachments/assets/80d78742-112c-4bb1-8a2c-4ce9695a576b)
